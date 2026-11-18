@@ -1,0 +1,9 @@
+/**:
+  ros__parameters:
+    dt: 0.01
+
+signal_publisher:
+  ros__parameters:
+    amplitude: 3.0
+    frequency: 3.0
+    noise_ratio: 0.05
